@@ -1,9 +1,8 @@
 
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 **<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!** 👋
  
- #### 👨‍💻 I'm a Software Engineer Learning and Building New Things
- #### 🤫 Clean Code is the key to success
- #### :zap: Have strong experience in React JS, Javascript, C# .Net. 
+ #### 👨‍💻 I'm a Software Developer Learning and Building New Things
+ #### :zap: Have strong experience in React JS, Javascript, C# .Net
  #### 🗣️ I love communicating with New People
  #### 💬 Ask me about anything, I am happy to help
 
@@ -13,7 +12,7 @@
  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C#](https://img.shields.io/badge/-.C%23-black)
+![C#](https://img.shields.io/badge/-C%23-black)
 ![.Net](https://img.shields.io/badge/-.NET-black)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
