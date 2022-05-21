@@ -13,7 +13,8 @@
  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C# .Net](https://img.shields.io/badge/-.NET-black)
+![C#](https://img.shields.io/badge/-.C%23-black)
+![.Net](https://img.shields.io/badge/-.NET-black)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
