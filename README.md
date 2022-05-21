@@ -3,7 +3,7 @@
  
  #### 👨‍💻 I'm a Software Engineer Learning and Building New Things
  #### 🤫 Clean Code is the key to success
- #### :zap: Have strong experience in Reactjs,Redux,GraphQL,Firebase,javascript,Scss 
+ #### :zap: Have strong experience in React JS, Javascript, C# .Net. 
  #### 🗣️ I love communicating with New People
  #### 💬 Ask me about anything, I am happy to help
 
