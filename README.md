@@ -12,6 +12,7 @@
  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/npm/types/typescript)
 ![C#](https://img.shields.io/badge/-C%23-black)
 ![.Net](https://img.shields.io/badge/-.NET-black)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
